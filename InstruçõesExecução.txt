@@ -1,0 +1,7 @@
+Instruções de execução:
+
+
+- Fazer o upload dos ficheiros "código.ipynb", "insta_train.csv" e 
+  "insta_test.csv" para o seu disco do Google Drive
+
+- Abrir o ficheiro de código e executar
